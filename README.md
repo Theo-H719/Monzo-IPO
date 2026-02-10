@@ -29,4 +29,4 @@ Regulatory Cost: Mandatory APP fraud reimbursement (50/50 liability split) creat
 
 Valuation Overhang: A failure to secure a US banking license would cap Monzo's total addressable market (TAM) to the UK, limiting multiple expansion.
 
-Incorporated is a Python Valuation Model.
+(To calculate this IPO case, a Python Valuation Model was used and has been incorporated. The sources of this data was extracted by a Python coded Webscaper and using information that was verfied by hand.)
